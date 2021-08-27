@@ -3,6 +3,7 @@
 
 Deployed Example: _TOP SECRET - LINK REDACTED_
 
+
 ## Your Mission
 As the new **API Engineer** for the Bandersnatch project, you have a tough job
 ahead of you. The previous API Engineer dropped the ball and couldn't finish
@@ -11,10 +12,12 @@ into a jam, he can pull you out. He's one of our most loyal agents, trust him.
 
 Your first task is to erase all traces of Thackery Binx, commit to owning  
 this role and put your name in their place on the home page. See
-`app/templates/index.html`. Await further orders in the guise of _DS Guided Projects_, 
-not to be confused with the social calamities known as _Web Guided Projects_.
+`app/templates/index.html`. Then, await further orders in the guise of 
+_DS Guided Projects_, not to be confused with the social calamities known as 
+_Web Guided Projects_.
 
 ~Dr. B, MonsterFactory inc. CEO
+
 
 ### Tech Stack: Components
 - Logic: Python3
@@ -28,6 +31,14 @@ not to be confused with the social calamities known as _Web Guided Projects_.
 - Hosting: Heroku
 - RNG Engine: _TOP SECRET - LINK REDACTED_
 - Random Monsters: _TOP SECRET - LINK REDACTED_
+
+
+### Features
+- Data Creation
+- Data Viewing
+- Model Training
+- Predictions
+
 
 ### MonsterLab: Monster Spec 42
 - Name: String
